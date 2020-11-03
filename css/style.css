@@ -1,0 +1,279 @@
+*{margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 90%;
+    background-color: whitesmoke;
+    margin: auto;
+    overflow: hidden;
+    padding: 50px 0;
+}
+.logo{
+    width: 20%;
+    float: left;
+
+}
+nav{
+    width: 55%;
+    float: right;
+    overflow: hidden;
+
+}
+nav ul{
+    list-style: none;
+    float: right;
+    overflow: hidden;
+
+}
+nav ul li{
+
+    float: left;
+    margin-left: 100px;
+    color: #626262;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.banner{
+    width: 90%;
+    margin: auto;
+    
+
+}
+.banner img{
+    width: 100%;
+}
+.photodiary{
+
+width: 80%;
+
+margin: auto;
+
+padding: 50px 0;
+}
+.photodiary h4, .item-one h4,.item-two h4{
+    
+color: #b4ad9e;
+    
+text-transform: uppercase;
+    
+font-size: 14px;
+}
+.photodiary h1, .item-one h1, .item-two h1, .news h1{
+    
+color: #626262;
+    
+text-transform: capitalize;
+    
+font-size: 30px;
+    
+margin: 15px 0;
+}
+.photodiary p, .item-one p, .item-two p{
+    
+color: #626262;
+    
+font-size: 16px;
+    
+margin-bottom: 30px;
+}
+
+.lifestyle{
+
+width: 80%;
+
+margin: auto;
+
+overflow: hidden;
+}
+.content{
+
+}
+.item-one{
+
+width: 48%;
+
+float: left;
+
+padding: 50px 0;
+}
+.item-one img{
+
+width: 100%;
+}
+.item-one h4{
+    
+margin-top: 15px;
+}
+.item-one h1{
+  
+}
+.item-one p{
+
+}
+.item-two{
+
+width: 48%;
+
+float: right;
+
+padding: 50px 0;
+}
+.item-two img{
+
+width: 100%;
+}
+.item-two h4{
+    
+margin-top: 15px;
+}
+.item-two h1{
+   
+}
+.item-two p{
+
+}
+.newslatter{
+
+background-color: #f0f0f0;
+
+padding: 50px 0;
+}
+.news{
+
+width: 25%;
+
+margin: auto;
+
+position: relative;
+}
+.news h1{
+    
+}
+.news input{
+    
+border: none;
+    
+background-color: transparent;
+    
+border-bottom: 1px solid black;
+    
+width: 100%;
+    
+margin-top: 25px;
+    
+padding: 3px 0;
+}
+.news input:focus{
+    border: none;
+    outline: none;
+}
+.news input::placeholder{
+    text-transform: capitalize;
+    
+}
+.icon{
+    
+position: absolute;
+    
+top: 77%;
+    
+right: 0%;
+    
+bottom: 0;
+}
+.btn{
+
+text-align: center;
+
+padding: 50px 0;
+}
+button{
+    
+/* text-align: center; */
+    
+border: none;
+    
+/* text-align: center; */
+    
+background: transparent;
+    
+border: 1px solid black;
+    
+padding: 20px 30px;
+    
+font-size: 20px;
+    
+cursor: pointer;
+}
+footer{
+    
+background-color: #f0f0f0;
+    
+padding: 50px 0;
+}
+.footer-content{
+
+width: 80%;
+
+margin: auto;
+
+overflow: hidden;
+}
+.privecy{
+
+width: 30%;
+
+float: left;
+}
+.privecy ul{
+
+/* float: right; */
+
+list-style: none;
+
+float: left;
+}
+.privecy ul li{
+    
+float: left;
+    
+margin-right: 15px;
+    
+text-transform: capitalize;
+}
+.social-icon{
+
+width: 30%;
+
+float: right;
+
+overflow: hidden;
+}
+.social-icon ul{
+    
+list-style-type: none;
+    
+margin: 0;
+    
+/* float: left; */
+    
+float: right;
+}
+.social-icon ul li{
+    
+/* float: right; */
+    
+float: left;
+    
+overflow: hidden;
+    
+font-size: 16px;
+    
+text-transform: capitalize;
+    
+margin-left: 20px;
+}
+.social-icon ul li a{
+    
+}
